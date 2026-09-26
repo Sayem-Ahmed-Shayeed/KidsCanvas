@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.xdv
